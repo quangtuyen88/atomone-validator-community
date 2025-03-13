@@ -8,7 +8,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
 |   |   |   |   |   |   |   |   |
-|  KenZ|DragonVN | https://docs.kzvn.xyz   |   | Austria  | quangtuyen88  | kenz4788@gmail.com   | kenz3964   | 7E782907060251761EC6AC83133D5F091A9F49871934F667C19EA71608914E95  |
+|  ApexNodes | https://apexnodes.dev   |   | Austria  | quangtuyen88  | kenz4788@gmail.com   | kenz3964   | C370EA4C350BB9692F97805BF4DA037BE2929569865028BC1829EC481A8446EB  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
